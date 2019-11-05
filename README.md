@@ -6,3 +6,7 @@ ASP.NET Core Blazor Diet Application
 1. ASP.NET Blazor
 2. C# programming language
 3. Javascript programming language
+
+### Created by
+
+-> Matija Marić
