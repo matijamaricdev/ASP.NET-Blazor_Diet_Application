@@ -1,12 +1,12 @@
-# ASP.NET-Blazor_Diet_Application
+## TITLE
 ASP.NET Core Blazor Diet Application
 
-## DEVELOPMENT
+## TECHNOLOGIES USED
 
 1. ASP.NET Blazor
 2. C# programming language
 3. Javascript programming language
 
-## DISCLAIMER
-This project cannot be used, modified and distributed by anyone. This project is owner of Matija Marić.
+## OWNER
 
+- Matija Marić
